@@ -1,16 +1,22 @@
-## Hi there 👋
+# ¡Hola! Soy Bernabé Quijada Abrego
 
-<!--
-**abregoquijadabernabe-sudo/abregoquijadabernabe-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de informática en la Universidad Tecnológica de Panamá.
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me interesa la tecnología, los sistemas de información y el desarrollo de soluciones informáticas. Actualmente, estoy fortaleciendo mis conocimientos y habilidades mediante el aprendizaje y la práctica académica.
+
+## Áreas de interés
+
+- Desarrollo de software
+- Sistemas de información
+- Bases de datos
+- Herramientas tecnológicas y trabajo colaborativo
+
+## Proyectos
+
+En esta sección incorporaré mis proyectos académicos y personales a medida que los desarrolle y documente.
+
+## Contacto
+
+- GitHub: [@abregoquijadabernabe-sudo](https://github.com/abregoquijadabernabe-sudo)
