@@ -15,7 +15,12 @@ Me interesa la tecnología, los sistemas de información y el desarrollo de solu
 
 ## Proyectos
 
-En esta sección incorporaré mis proyectos académicos y personales a medida que los desarrolle y documente.
+### Sistema de Gestión de Inventario
+Aplicación de consola desarrollada en Python con SQLite para registrar productos, consultar existencias, actualizar cantidades y calcular el valor del inventario.
+
+- **Tecnologías:** Python y SQLite.
+- **Repositorio:** [Ver código y documentación](https://github.com/abregoquijadabernabe-sudo/sistema-gestion-inventario)
+
 
 ## Contacto
 
