@@ -1,6 +1,6 @@
 # ¡Hola! Soy Bernabé Quijada Abrego
 
-🎓 Estudiante de informática en la Universidad Tecnológica de Panamá.
+🎓 Estudiante de Redes informática en la Universidad Tecnológica de Panamá.
 
 ## Sobre mí
 
